@@ -1,10 +1,9 @@
-# DAT455
-Worked as a Teaching Assistant for the summer course DAT455 - introduction to Python Programming, given by the faculty of Data- och informationsteknik at Chalmers University of Technology, during 20230626 - 20230901.
-This is my work from that course.
-My job description was the following:
--  held practice sessions (referred to as QA sessions)
--  individual laboratory supervision
--  corrected the laboratories
--  corrected the exams
--  maintenance of Slack with channels for students & teachers
--  maintenance of Google spreadsheet for staffing of classes and other related tasks.
+# DAT455 - Introduction to programming in Python
+Worked as a Teaching Assistant for the summer course DAT455 - Introduction to Python Programming, offered by the Department of Data and Information Technology at Chalmers University of Technology, from June 26, 2023, to September 1, 2023. This is a record of my contributions during that course. My job responsibilities included:
+
+-Conducting practice sessions (referred to as QA sessions).
+-Providing individual laboratory supervision.
+-Grading and correcting the laboratory assignments.
+-Grading and correcting the exams.
+-Managing the Slack platform with channels for students and teachers.
+-Maintaining the Google spreadsheet for class staffing and other related tasks.
