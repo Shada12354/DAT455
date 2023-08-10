@@ -1,7 +1,12 @@
-#Länk till https://pypi.org/project/graphics.py/#files,
-#John Zelles graphics.py package, for use with the textbook "Python Programming: An Introduction to Computer Science"
-#Länk till dokumentation: https://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf, https://mcsp.wartburg.edu/zelle/python/graphics.py
-#Obs: se till att filen finns i samma mapp som ditt Python Script.
+"""
+QA-session Beginner (Nyb) 2023-07-04
+@author Shada Al-Wakkal, GitHub: Shada12354
+
+Länk till https://pypi.org/project/graphics.py/#files,
+John Zelles graphics.py package, for use with the textbook "Python Programming: An Introduction to Computer Science"
+Länk till dokumentation: https://mcsp.wartburg.edu/zelle/python/graphics/graphics.pdf, https://mcsp.wartburg.edu/zelle/python/graphics.py
+Obs: se till att filen finns i samma mapp som ditt Python Script.
+"""
 
 from graphics import *
 
